@@ -132,4 +132,4 @@ jobs:
         with:
           context: ./frontend/
           push: true
-          tags: username/taski_frontend:latest
+          tags: wasted675/taski_frontend:latest
